@@ -1,1 +1,4 @@
-console.log('This is the Main.js file. It should be the 3rd and final file');
+function sum(a, b) {
+  return a + b;
+}
+module.exports = sum;
